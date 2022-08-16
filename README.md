@@ -1,0 +1,1 @@
+CSS exercises for the Foundations course on The Odin Project
